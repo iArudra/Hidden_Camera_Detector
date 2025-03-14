@@ -38,9 +38,9 @@ Enhanced security features to prevent unauthorized access.
 
 Contributors
 
-Shrenish Nikhil S. (Lead Developer)
-Sivaathithya S
-Dharaneesh Kumar K
+Shrenish Nikhil S. (Lead Developer),
+Sivaathithya S,
+Dharaneesh Kumar K,
 Rushi Praneeth
 
 
